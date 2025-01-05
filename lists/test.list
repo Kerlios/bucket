@@ -1,1 +1,7 @@
 URL-REGEX,^habr\..+
+DOMAIN-SUFFIX,xeovo.com
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,consolemods.org
+DOMAIN-SUFFIX,pcmag.com
