@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokcdn.com.c.worldfcdn.com
 DOMAIN-REGEX,(^|\.)muscdn\.com$
 DOMAIN-REGEX,(^|\.)musical\.ly$
-tiktok.com
 DOMAIN-REGEX,*.tiktok.com
 DOMAIN-SUFFIX,www.tiktok.com
 DOMAIN-SUFFIX,api-h2.tiktokv.com
