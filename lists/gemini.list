@@ -1,5 +1,5 @@
 #Домены без которых Gemini выбивает ошибку 1060
-www.googleapis.com
+DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
