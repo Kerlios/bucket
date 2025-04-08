@@ -1,0 +1,16 @@
+#Домены без которых Gemini выбивает ошибку 1060
+www.googleapis.com
+speechs3proto2-pa.googleapis.com
+firebaseinstallations.googleapis.com
+proactivebackend-pa.googleapis.com
+geller-pa.googleapis.com
+
+assistantfrontend-pa.googleapis.com
+assistant-s3-pa.googleapis.com
+searchnotifications-pa.googleapis.com
+notifications-pa.googleapis.com
+update.googleapis.com
+lamssettings-pa.googleapis.com
+taskassist-pa.googleapis.com
+
+gemini.google.com
