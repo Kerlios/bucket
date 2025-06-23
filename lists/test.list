@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,logist.today
 DOMAIN-SUFFIX,clevelandclinic.org
+DOMAIN-SUFFIX,udemy.com
+DOMAIN-SUFFIX,forumdaily.com
+DOMAIN-SUFFIX,foxit.com
 IP-CIDR,104.16.0.0/13,no-resolve IP-CIDR,104.24.0.0/14,no-resolve
 IP-CIDR6,2405:b500::/32,no-resolve
 IP-CIDR,35.160.210.199/32,no-resolve
