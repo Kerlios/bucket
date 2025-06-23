@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,logist.today
 DOMAIN-SUFFIX,clevelandclinic.org
+IP-CIDR,104.16.0.0/13,no-resolve IP-CIDR,104.24.0.0/14,no-resolve
+IP-CIDR,2405:b500::/32,no-resolve
